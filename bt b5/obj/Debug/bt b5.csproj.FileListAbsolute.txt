@@ -1,0 +1,10 @@
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\bin\Debug\bt b5.exe.config
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\bin\Debug\bt b5.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\bin\Debug\bt b5.pdb
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt b5.csproj.AssemblyReference.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt_b5.Form1.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt_b5.Properties.Resources.resources
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt b5.csproj.GenerateResource.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt b5.csproj.CoreCompileInputs.cache
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt b5.exe
+E:\HOC TAP\2024 - 2025\lap trinh tren moi truong win\bt b5\bt b5\obj\Debug\bt b5.pdb
